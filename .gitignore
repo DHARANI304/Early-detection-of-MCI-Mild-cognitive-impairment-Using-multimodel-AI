@@ -1,0 +1,11 @@
+# Model files
+*.pth
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
