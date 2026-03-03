@@ -71,13 +71,18 @@ Combined Risk Assessment Output
 1️⃣ Clone Repository
 git clone https://github.com/DHARANI304/Early-detection-of-MCI-Mild-cognitive-impairment-Using-multimodel-AI.git
 cd Early-detection-of-MCI-Mild-cognitive-impairment-Using-multimodel-AI
+
 2️⃣ Create Virtual Environment
 python -m venv .venv
 .\.venv\Scripts\activate
+
 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 4️⃣ Run Streamlit App
 streamlit run streamlit_app.py
+
+
 📂 Project Structure
 ├── streamlit_app.py
 ├── train_mri.py
