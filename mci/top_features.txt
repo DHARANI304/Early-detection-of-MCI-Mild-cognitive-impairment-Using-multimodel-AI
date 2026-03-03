@@ -1,0 +1,8 @@
+FunctionalAssessment
+ADL
+MMSE
+MemoryComplaints
+BehavioralProblems
+CholesterolLDL
+DietQuality
+CholesterolTriglycerides
